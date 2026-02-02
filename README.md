@@ -1,4 +1,4 @@
-e💱 Conversor de Moedas em Java
+💱 Conversor de Moedas em Java
 
 Este projeto é uma aplicação de console em Java que realiza conversões de moedas em tempo real, utilizando dados obtidos diretamente da API ExchangeRate.
 
